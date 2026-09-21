@@ -1,0 +1,1 @@
+{"name":"ea-portfolio-tracker","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"start":"node server.js","dev":"node --watch server.js","test":"node --test","check":"node --check server.js && node --check lib/data.js && node --check public/app.js"},"dependencies":{"chrono-node":"^2.8.0","fast-xml-parser":"^5.0.0","yahoo-finance2":"^4.0.2"}}
